@@ -3,4 +3,5 @@ Second line
 Edited on github
 Hello, from a branch
 New line from branch demo
-New line 2 from branch demo 
+New line 2 from branch demo
+Branch line 
