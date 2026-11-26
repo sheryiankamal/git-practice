@@ -1,4 +1,4 @@
-﻿Hello from the branch
+Hello from the branch
 Second line
 Edited on github
 Hello, from a branch
