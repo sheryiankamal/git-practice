@@ -2,4 +2,6 @@ Hello from the branch
 Second line
 Edited on github
 Hello, from a branch
-Conflict line
+New line from branch demo
+New line 2 from branch demo 
+Main line
